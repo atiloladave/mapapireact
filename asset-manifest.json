@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mapapireact/static/css/main.e1a3585b.chunk.css",
+    "main.js": "/mapapireact/static/js/main.14758e71.chunk.js",
+    "main.js.map": "/mapapireact/static/js/main.14758e71.chunk.js.map",
+    "runtime-main.js": "/mapapireact/static/js/runtime-main.035b2f7f.js",
+    "runtime-main.js.map": "/mapapireact/static/js/runtime-main.035b2f7f.js.map",
+    "static/css/2.6eff3e32.chunk.css": "/mapapireact/static/css/2.6eff3e32.chunk.css",
+    "static/js/2.d2609dff.chunk.js": "/mapapireact/static/js/2.d2609dff.chunk.js",
+    "static/js/2.d2609dff.chunk.js.map": "/mapapireact/static/js/2.d2609dff.chunk.js.map",
+    "index.html": "/mapapireact/index.html",
+    "precache-manifest.d0ab048f30f3ab236db6b6c7b48ae7c0.js": "/mapapireact/precache-manifest.d0ab048f30f3ab236db6b6c7b48ae7c0.js",
+    "service-worker.js": "/mapapireact/service-worker.js",
+    "static/css/2.6eff3e32.chunk.css.map": "/mapapireact/static/css/2.6eff3e32.chunk.css.map",
+    "static/css/main.e1a3585b.chunk.css.map": "/mapapireact/static/css/main.e1a3585b.chunk.css.map",
+    "static/js/2.d2609dff.chunk.js.LICENSE.txt": "/mapapireact/static/js/2.d2609dff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035b2f7f.js",
+    "static/css/2.6eff3e32.chunk.css",
+    "static/js/2.d2609dff.chunk.js",
+    "static/css/main.e1a3585b.chunk.css",
+    "static/js/main.14758e71.chunk.js"
+  ]
+}
